@@ -1,0 +1,21 @@
+/* Your Website Styles */
+
+
+/* Show Grid */
+.showgrid {
+	background: url("../img/grid-bg.png") repeat-y;
+}
+
+h1{
+	font-family: 'Antic Didone', serif;
+}
+
+h3{
+
+	font-family: 'Antic Didone', serif;
+}
+
+p{
+
+	font-family: 'Unna', serif;
+}
